@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo se usa en el proceso de publicación y empaquetado del proyecto web. Para personalizar el comportamiento de este proceso,
+edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 para obtener más información. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAASV+MHtt8s0e2S3aynlUfFwAAAAACAAAAAAAQZgAAAAEAACAAAACrRLmOFPNIKqHZ4fbawT2jdO6cSKgZ/JDWwGz6Hz1GVwAAAAAOgAAAAAIAACAAAAAQ5YQHAw+1ycmX1hgS88ox9s7t4GOQMadGRLDuWtGTHiAAAABz5h86215Ywmy7Bcsse+m7uf1qdo6rUWok9UiusVlPb0AAAACB3hmVb2WSstQtTqnSTmOPTDZ8ob2wX1wfB3HPHenS6MqrBA5wmINbKf5xvNHMcGUnsuc2PtGleWn5qeIU6PWk</EncryptedPassword>
+    <_PublishTargetUrl>ftp://EladioJ.somee.com/www.EladioJ.somee.com</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/UTTT.Ejemplo.Linq.Data.dll">
+      <publishTime>01/13/2021 21:35:06</publishTime>
+    </File>
+    <File Include="bin/UTTT.Ejemplo.Linq.Data.dll.config">
+      <publishTime>01/13/2021 21:34:07</publishTime>
+    </File>
+    <File Include="bin/UTTT.Ejemplo.Linq.Data.pdb">
+      <publishTime>01/13/2021 21:35:06</publishTime>
+    </File>
+    <File Include="bin/UTTT.Ejemplo.Persona.Control.dll">
+      <publishTime>01/13/2021 21:30:02</publishTime>
+    </File>
+    <File Include="bin/UTTT.Ejemplo.Persona.Control.pdb">
+      <publishTime>01/13/2021 21:30:02</publishTime>
+    </File>
+    <File Include="bin/UTTT.Ejemplo.Persona.Data.dll">
+      <publishTime>01/13/2021 21:29:54</publishTime>
+    </File>
+    <File Include="bin/UTTT.Ejemplo.Persona.Data.pdb">
+      <publishTime>01/13/2021 21:29:54</publishTime>
+    </File>
+    <File Include="bin/UTTT.Ejemplo.Persona.dll">
+      <publishTime>01/13/2021 21:38:12</publishTime>
+    </File>
+    <File Include="bin/UTTT.Ejemplo.Persona.pdb">
+      <publishTime>01/13/2021 21:38:12</publishTime>
+    </File>
+    <File Include="controlformato.css">
+      <publishTime>04/26/2016 13:33:12</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>04/26/2016 13:33:12</publishTime>
+    </File>
+    <File Include="direccion.aspx">
+      <publishTime>04/26/2016 13:33:12</publishTime>
+    </File>
+    <File Include="DireccionExtraManager.aspx">
+      <publishTime>04/26/2016 13:33:12</publishTime>
+    </File>
+    <File Include="DireccionManager.aspx">
+      <publishTime>04/26/2016 13:33:12</publishTime>
+    </File>
+    <File Include="Images/delrecord_16x16.png">
+      <publishTime>04/26/2016 13:33:12</publishTime>
+    </File>
+    <File Include="Images/editrecord_16x16.png">
+      <publishTime>04/26/2016 13:33:12</publishTime>
+    </File>
+    <File Include="Images/Pixir-1-1-300x181.png">
+      <publishTime>04/26/2016 13:33:12</publishTime>
+    </File>
+    <File Include="Images/printrecord_16x16.png">
+      <publishTime>04/26/2016 13:33:12</publishTime>
+    </File>
+    <File Include="javaScripFile.js">
+      <publishTime>04/26/2016 13:33:12</publishTime>
+    </File>
+    <File Include="javaScripPage.aspx">
+      <publishTime>04/26/2016 13:33:12</publishTime>
+    </File>
+    <File Include="paginaMaster.Master">
+      <publishTime>04/26/2016 13:33:12</publishTime>
+    </File>
+    <File Include="PersonaManager.aspx">
+      <publishTime>04/26/2016 13:33:12</publishTime>
+    </File>
+    <File Include="PersonaPrincipal.aspx">
+      <publishTime>04/26/2016 13:33:12</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.4.1-vsdoc.js">
+      <publishTime>04/26/2016 13:33:12</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.4.1.js">
+      <publishTime>04/26/2016 13:33:12</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.4.1.min.js">
+      <publishTime>04/26/2016 13:33:12</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>01/13/2021 21:38:15</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
